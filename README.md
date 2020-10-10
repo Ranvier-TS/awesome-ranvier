@@ -25,9 +25,11 @@ If you add a resource, please do so in the following format:
 
 ### Community Forks/Versions
 
+- [RanvierMUD 3.1](https://github.com/RanvierMUD/core/tree/3.1-preview) Experimental alpha branch of the core engine.
+
 ### Games
 
-- [Myelin: Escape the Spire](http://myelin.space) ([Itch](https://muscarian.itch.io/myelin-escape-the-spire)) ([GitHub]())A procedurally-generated sci-fi dungeon crawl.
+- [Myelin: Escape the Spire](http://myelin.space) ([Itch](https://muscarian.itch.io/myelin-escape-the-spire)) A procedurally-generated sci-fi dungeon crawl.
 
 ### Libraries
 
