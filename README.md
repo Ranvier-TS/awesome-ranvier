@@ -9,7 +9,7 @@ If you know of a community fork, bundle, or other content that is not listed her
 
 If you add a resource, please do so in the following format:
 
-#### Category Name (if not already present) should be a 4th level subheading.
+### Category Name (if not already present) should be a 3rd level subheading
 
 - [Link text should be the name of the content, e.g. "RanvierMUD website".](https://ranviermud.com) A short description of the content should be included as part of the same list item.
 
@@ -23,7 +23,7 @@ If you add a resource, please do so in the following format:
 
 - [Axolemma](https://github.com/seanohue/axolemma) A CLI tool and library leveraging [ROT-js](https://ondras.github.io/rot.js/) to procedurally generate areas for Ranvier games.
 
-### Community Forks/Versions
+### Core Engine Forks & Versions
 
 - [RanvierMUD 3.1](https://github.com/RanvierMUD/core/tree/3.1-preview) Experimental alpha branch of the core engine.
 
