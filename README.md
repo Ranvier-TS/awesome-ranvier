@@ -29,16 +29,16 @@ Legend:
 
 ### Core Engine Forks & Versions
 
-- [RanvierMUD 3.1](https://github.com/RanvierMUD/core/tree/3.1-preview) (v3.1) Experimental alpha branch of the core engine.
+- [RanvierMUD 3.1](https://github.com/RanvierMUD/core/tree/3.1-preview) (v3.1) Experimental alpha branch of the core engine. :construction: :warning:
 
 ### Games
 
-- [Myelin: Escape the Spire](http://myelin.space) ([Itch](https://muscarian.itch.io/myelin-escape-the-spire)) (v2.x) A procedurally-generated sci-fi dungeon crawl.
+- [Myelin: Escape the Spire](http://myelin.space) ([Itch](https://muscarian.itch.io/myelin-escape-the-spire)) (v2.x) A procedurally-generated sci-fi dungeon crawl. :warning:
 
 ### Libraries
 
-- [Fantasy Time Crunch](https://github.com/seanohue/fantasy-time-crunch) (v2.x or v3.x) A library for handling arbitrary units of time and time-related "tick" events, made to plug into a Ranvier bundle easily.
-- [Lobus](https://github.com/seanohue/lobus) (v2.x or 3.x) A library for handling event-based menus, made for creating Ranvier input-event menus.
+- [Fantasy Time Crunch](https://github.com/seanohue/fantasy-time-crunch) (v2.x or v3.x) A library for handling arbitrary units of time and time-related "tick" events, made to plug into a Ranvier bundle easily. :construction:
+- [Lobus](https://github.com/seanohue/lobus) (v2.x or 3.x) A library for handling event-based menus, made for creating Ranvier input-event menus. :construction:
 
 ## Contact
 
