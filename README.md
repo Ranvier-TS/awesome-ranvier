@@ -1,37 +1,37 @@
-## Awesome Ranvier
+# Awesome Ranvier
 
-You can use the [editor on GitHub](https://github.com/seanohue/awesome-ranvier/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## What this is
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+`awesome-ranvier` is a repository for quality community-made content around the [Ranvier MUD engine](https://ranviermud.com/).
+If you know of a community fork, bundle, or other content that is not listed here, feel free to submit an issue or pull request to add it.
 
-### Markdown
+### Contributing
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you add a resource, please do so in the following format:
 
-```markdown
-Syntax highlighted code block
+#### Category Name (if not already present) should be a 4th level subheading.
 
-# Header 1
-## Header 2
-### Header 3
+- [Link text should be the name of the content, e.g. "RanvierMUD website".](https://ranviermud.com) A short description of the content should be included as part of the same list item.
 
-- Bulleted
-- List
+## Categories
 
-1. Numbered
-2. List
+### Bundles
 
-**Bold** and _Italic_ and `Code` text
+- [myelin-quests](https://github.com/seanohue/myelin-quests) A bundle with custom QuestGoals and quest-related behaviors.
 
-[Link](url) and ![Image](src)
-```
+### Building Tools
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [Axolemma](https://github.com/seanohue/axolemma) A CLI tool and library leveraging [ROT-js](https://ondras.github.io/rot.js/) to procedurally generate areas for Ranvier games.
 
-### Jekyll Themes
+### Community Forks/Versions
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seanohue/awesome-ranvier/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [RanvierMUD 3.1](https://github.com/RanvierMUD/core/tree/3.1-preview) Experimental alpha branch of the core engine.
 
-### Support or Contact
+### Games
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Myelin: Escape the Spire](http://myelin.space) ([Itch](https://muscarian.itch.io/myelin-escape-the-spire)) A procedurally-generated sci-fi dungeon crawl.
+
+### Libraries
+
+- [Fantasy Time Crunch](https://github.com/seanohue/fantasy-time-crunch) A library for handling arbitrary units of time and time-related "tick" events, made to plug into a Ranvier bundle easily.
+- [Lobus](https://github.com/seanohue/lobus) A library for handling event-based menus, made for creating Ranvier input-event menus.
