@@ -27,8 +27,9 @@ If you add a resource, please do so in the following format:
 
 ### Games
 
-- [Myelin: Escape the Spire](http://myelin.space) ([Itch](https://muscarian.itch.io/myelin-escape-the-spire)) A procedurally-generated sci-fi dungeon crawl.
+- [Myelin: Escape the Spire](http://myelin.space) ([Itch](https://muscarian.itch.io/myelin-escape-the-spire)) ([GitHub]())A procedurally-generated sci-fi dungeon crawl.
 
 ### Libraries
 
 - [Fantasy Time Crunch](https://github.com/seanohue/fantasy-time-crunch) A library for handling arbitrary units of time and time-related "tick" events, made to plug into a Ranvier bundle easily.
+- [Lobus](https://github.com/seanohue/lobus) A library for handling event-based menus, made for creating Ranvier input-event menus.
