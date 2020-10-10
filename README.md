@@ -1,6 +1,6 @@
 # Awesome Ranvier
 
-## What it is
+## What this is
 
 `awesome-ranvier` is a repository for quality community-made content around the [Ranvier MUD engine](https://ranviermud.com/).
 If you know of a community fork, bundle, or other content that is not listed here, feel free to submit an issue or pull request to add it.
@@ -17,10 +17,18 @@ If you add a resource, please do so in the following format:
 
 ### Bundles
 
+- [myelin-quests](https://github.com/seanohue/myelin-quests) A bundle with custom QuestGoals and quest-related behaviors.
+
 ### Building Tools
+
+- [Axolemma](https://github.com/seanohue/axolemma) A CLI tool and library leveraging [ROT-js](https://ondras.github.io/rot.js/) to procedurally generate areas for Ranvier games.
 
 ### Community Forks/Versions
 
 ### Games
 
+- [Myelin: Escape the Spire](http://myelin.space) ([Itch](https://muscarian.itch.io/myelin-escape-the-spire)) A procedurally-generated sci-fi dungeon crawl.
+
 ### Libraries
+
+- [Fantasy Time Crunch](https://github.com/seanohue/fantasy-time-crunch) A library for handling arbitrary units of time and time-related "tick" events, made to plug into a Ranvier bundle easily.
