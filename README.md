@@ -26,10 +26,15 @@ Legend:
 ### Building Tools
 
 - [Axolemma](https://github.com/seanohue/axolemma) (v2.x or 3.x, examples are in 2.x) A CLI tool and library leveraging [ROT-js](https://ondras.github.io/rot.js/) to procedurally generate areas for Ranvier games.
+- [Soma](https://github.com/RanvierMUD/soma) (2.x) Electron-based building tool.
 
 ### Core Engine Forks & Versions
 
 - [RanvierMUD 3.1](https://github.com/RanvierMUD/core/tree/3.1-preview) (v3.1) Experimental alpha branch of the core engine. :construction: :warning:
+
+### Clients
+
+- [Neuro](https://github.com/RanvierMUD/neuro) (2.x, maybe 3.x) Electron websockets client. The original.
 
 ### Games
 
