@@ -34,12 +34,12 @@ Legend:
 
 ### Clients
 
-- [Neuro](https://github.com/RanvierMUD/neuro) (2.x, maybe 3.x) Electron websockets client. The original.
+- [Neuro](https://github.com/RanvierMUD/neuro) (2.x, 3.x) Electron websockets client. The original.
 
 ### DataSources
 
  - [datasource-file](https://github.com/RanvierMUD/datasource-file) (3.x) YAML and JSON DataSources for the Ranvier game engine
- - [ranvier-mongodb-datasource](https://www.npmjs.com/package/ranvier-mongodb-datasource) (3.x). DataSources to store entities in MongoDB.
+ - [ranvier-mongodb-datasource](https://www.npmjs.com/package/ranvier-mongodb-datasource) (3.x) DataSources to store entities in MongoDB.
 
 ### Games
 
