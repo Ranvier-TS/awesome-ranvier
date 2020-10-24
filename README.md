@@ -27,6 +27,7 @@ Legend:
 
 - [Axolemma](https://github.com/seanohue/axolemma) (v2.x or 3.x, examples are in 2.x) A CLI tool and library leveraging [ROT-js](https://ondras.github.io/rot.js/) to procedurally generate areas for Ranvier games.
 - [Soma](https://github.com/RanvierMUD/soma) (2.x) Electron-based building tool. :warning:
+- [ranvier-webhooks](https://github.com/azigler/ranvier-webhooks) (3.x). This bundle comes with a webhook that handles GitHub events so you can trigger an automatic rebuild and relaunch of your Ranvier instance when committing to your public repository.
 
 ### Core Engine Forks & Versions
 
