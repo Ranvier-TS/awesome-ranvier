@@ -22,6 +22,7 @@ Legend:
 ### Bundles
 
 - [myelin-quests](https://github.com/seanohue/myelin-quests) (v2.x) A bundle with custom QuestGoals and quest-related behaviors. :warning:
+- [Community Bundles](https://ranviermud.com/community_bundles/) (v3.x) List of community bundles in the Ranvier documentation.
 
 ### Building Tools
 
