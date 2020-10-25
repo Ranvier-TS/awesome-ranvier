@@ -40,6 +40,7 @@ Legend:
 
  - [datasource-file](https://github.com/RanvierMUD/datasource-file) (3.x) YAML and JSON DataSources for the Ranvier game engine
  - [ranvier-mongodb-datasource](https://www.npmjs.com/package/ranvier-mongodb-datasource) (3.x) DataSources to store entities in MongoDB.
+ - [ranvier-datasource-sqlite](https://www.npmjs.com/package/ranvier-datasource-sqlite) (3.x) SQLite DataSource.
 
 ### Games
 
