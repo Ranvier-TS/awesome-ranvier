@@ -32,6 +32,7 @@ Legend:
 ### Core Engine Forks & Versions
 
 - [RanvierMUD 3.1](https://github.com/RanvierMUD/core/tree/3.1-preview) (v3.1) Experimental alpha branch of the core engine. :construction: :warning:
+- [Pinwheel MUD Engine](https://github.com/azigler/pinwheel) Pinwheel is a rewrite of the Ranvier MUD engine and its bundles into a highly opinionated format. The engine makes decisions about world persistence and core features so you can focus on building your world and community.
 
 ### Clients
 
