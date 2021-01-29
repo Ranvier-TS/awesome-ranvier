@@ -57,6 +57,7 @@ Legend:
 - [Fantasy Time Crunch](https://github.com/seanohue/fantasy-time-crunch) (v2.x or v3.x) A library for handling arbitrary units of time and time-related "tick" events, made to plug into a Ranvier bundle easily. :construction:
 - [Lobus](https://github.com/seanohue/lobus) (v2.x or 3.x) A library for handling event-based menus, made for creating Ranvier input-event menus. :construction:
 - [ranvier-tracery](https://github.com/azigler/ranvier-tracery) (3.x) Generate and manipulate text in Ranvier with Tracery
+- [Magic-Symbols](https://github.com/Sakeran/magic-symbols) (v2.x or v3.x) Color syntax and parser for ANSI and Xterm256 colors
 
 ## Contact
 
