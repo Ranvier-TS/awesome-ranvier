@@ -51,6 +51,7 @@ Legend:
 ### Games
 
 - [Myelin: Escape the Spire](http://myelin.space) ([Itch](https://muscarian.itch.io/myelin-escape-the-spire)) (v2.x) A procedurally-generated sci-fi dungeon crawl. :warning:
+- [Enceladus](http://https://enceladusgame.io/play) (v3.x) An experimental crypto rpg
 
 ### Libraries
 
