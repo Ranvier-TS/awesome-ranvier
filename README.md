@@ -53,6 +53,7 @@ Legend:
 
 - [Myelin: Escape the Spire](http://myelin.space) ([Itch](https://muscarian.itch.io/myelin-escape-the-spire)) (v2.x) A procedurally-generated sci-fi dungeon crawl. :warning:
 - [Enceladus](http://https://enceladusgame.io/play) (v3.x) An experimental crypto rpg
+- [Battle For Evermore](https://app.evermore.mud.xyz/matches) ([Mud.xyz](https://mud.xyz)) (v3.x) A fantasy adventure world that offers players ownership over game assets, rewards competative play on Ethereum.
 
 ### Libraries
 
