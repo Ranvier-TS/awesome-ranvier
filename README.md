@@ -51,8 +51,8 @@ Legend:
 
 ### Games
 
-- [Myelin: Escape the Spire](http://myelin.space) ([Itch](https://muscarian.itch.io/myelin-escape-the-spire)) (v2.x) A procedurally-generated sci-fi dungeon crawl. :warning:
-- [Enceladus](http://https://enceladusgame.io/play) (v3.x) An experimental crypto rpg
+- [Mnemosyne](https://muscarian.itch.io/mnemosyne) A graphical browser-based game using modified Ranvier-TS (3.x? 4.x?) as a backend.
+- Your game here! Please submit a pull request.
 
 ### Libraries
 
